@@ -10,17 +10,17 @@ Solutions for all easy, medium and hard SQL challenges on HackerRank executed on
 | :---:| --- | :---: |
 | 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Revising-the-Select-Query-I.sql) |
 | 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Revising-the-Select-Query-II.sql) | 
-| 3 | Select All | Link |
-| 4 | Select By ID | Link | 
-| 5 | Japanese Cities' Attributes | Link | 
-| 6 | Japanese Cities' Names | Link | 
-| 7 | Weather Observation Station 1 | Link | 
-| 8 | Weather Observation Station 3 | Link | 
-| 9 | Weather Observation Station 4 | Link | 
-| 10 | Weather Observation Station 5 | Link | 
-| 11 | Weather Observation Station 6 | Link | 
-| 12 | Weather Observation Station 7 | Link | 
-| 13 | Weather Observation Station 8 | Link | 
+| 3 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Select-All.sql) |
+| 4 | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Select-By-ID.sql) | 
+| 5 | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Japanese-Cities'-Attributes.sql) | 
+| 6 | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Japanese-Cities'-Names.sql) | 
+| 7 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Weather-Observation-Station-1.sql) | 
+| 8 | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Weather-Observation-Station-3.sql) | 
+| 9 | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Weather-Observation-Station-4.sql) | 
+| 10 | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Weather-Observation-Station-5.sql) | 
+| 11 | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Weather-Observation-Station-6.sql) | 
+| 12 | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Weather-Observation-Station-7.sql) | 
+| 13 | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Weather-Observation-Station-8.sql) | 
 | 14 | Weather Observation Station 9 | Link | 
 | 15 | Weather Observation Station 10 | Link | 
 | 16 | Weather Observation Station 11 | Link | 
