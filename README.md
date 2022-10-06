@@ -8,7 +8,7 @@ Solutions for all easy, medium and hard SQL challenges on HackerRank executed on
 
 | Number| Challenges | MySQL & MS SQL Server|
 | :---:| --- | :---: |
-| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query-1/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Revising-the-Select-Query-I.sql) |
+| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Revising-the-Select-Query-I.sql) |
 | 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Revising-the-Select-Query-II.sql) | 
 | 3 | Select All | Link |
 | 4 | Select By ID | Link | 
