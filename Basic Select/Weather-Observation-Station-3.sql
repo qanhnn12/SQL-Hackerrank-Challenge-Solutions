@@ -1,9 +1,9 @@
----Method 1: MySQL & MS SQL Server
+# Method 1: MySQL & MS SQL Server
 SELECT DISTINCT CITY
 FROM STATION
 WHERE ID%2 = 0;
 
---Method 2: MySQL
+# Method 2: MySQL
 SELECT DISTINCT CITY
 FROM STATION
 WHERE MOD(ID,2) = 0;
