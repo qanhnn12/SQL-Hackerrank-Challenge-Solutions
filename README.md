@@ -15,20 +15,19 @@ Solutions for all easy, medium and hard SQL challenges on HackerRank executed on
 | 5 | Japanese Cities' Attributes | Link | 
 | 6 | Japanese Cities' Names | Link | 
 | 7 | Weather Observation Station 1 | Link | 
-| 8 | Weather Observation Station 2 | Link | 
-| 9 | Weather Observation Station 3 | Link | 
-| 10 | Weather Observation Station 4 | Link | 
-| 11 | Weather Observation Station 5 | Link | 
-| 12 | Weather Observation Station 6 | Link | 
-| 13 | Weather Observation Station 7 | Link | 
-| 14 | Weather Observation Station 8 | Link | 
-| 15 | Weather Observation Station 9 | Link | 
-| 16 | Weather Observation Station 10 | Link | 
-| 17 | Weather Observation Station 11 | Link | 
-| 18 | Weather Observation Station 12 | Link | 
-| 19 | Higher Than 75 Marks | Link | 
-| 20 | Employee Names | Link | 
-| 21 | Employee Salaries | Link |
+| 8 | Weather Observation Station 3 | Link | 
+| 9 | Weather Observation Station 4 | Link | 
+| 10 | Weather Observation Station 5 | Link | 
+| 11 | Weather Observation Station 6 | Link | 
+| 12 | Weather Observation Station 7 | Link | 
+| 13 | Weather Observation Station 8 | Link | 
+| 14 | Weather Observation Station 9 | Link | 
+| 15 | Weather Observation Station 10 | Link | 
+| 16 | Weather Observation Station 11 | Link | 
+| 17 | Weather Observation Station 12 | Link | 
+| 18 | Higher Than 75 Marks | Link | 
+| 19 | Employee Names | Link | 
+| 20 | Employee Salaries | Link |
 
 
 ### Advanced Select
