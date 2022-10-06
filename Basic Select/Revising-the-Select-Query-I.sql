@@ -1,4 +1,4 @@
---MySQL and MS SQL Server
+--MySQL & MS SQL Server
 
 SELECT *
 FROM CITY
