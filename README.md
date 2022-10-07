@@ -6,7 +6,7 @@ Solutions for all easy, medium and hard SQL challenges on HackerRank executed on
 ## Domains
 ### Basic Select
 
-| Number| Challenges | MySQL & MS SQL Server|
+| Number| Challenges | Solutions|
 | :---:| --- | :---: |
 | 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Revising-the-Select-Query-I.sql) |
 | 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Revising-the-Select-Query-II.sql) | 
@@ -32,7 +32,7 @@ Solutions for all easy, medium and hard SQL challenges on HackerRank executed on
 
 ### Advanced Select
 
-| Number| Challenges | MySQL & MS SQL Server|
+| Number| Challenges | Solutions|
 | :---:| --- | :---: | 
 | 1 | Type of Triangle | Link | 
 | 2 | The PADS | Link |
@@ -42,7 +42,7 @@ Solutions for all easy, medium and hard SQL challenges on HackerRank executed on
 
 ### Aggregation
 
-| Number| Challenges | MySQL & MS SQL Server|
+| Number| Challenges | Solutions|
 | :---:| --- | :---: | 
 | 1 | Revising Aggregations - The Count Function | Link | 
 | 2 | Revising Aggregations - The Sum Function | Link | 
@@ -64,7 +64,7 @@ Solutions for all easy, medium and hard SQL challenges on HackerRank executed on
 
 ### Basic Join
 
-| Number| Challenges | MySQL & MS SQL Server|
+| Number| Challenges | Solutions |
 | :---:| --- | :---: | 
 | 1 | Asian Population | Link | 
 | 2 | African Cities | Link |
@@ -76,7 +76,7 @@ Solutions for all easy, medium and hard SQL challenges on HackerRank executed on
 
 ### Advanced Join
 
-| Number| Challenges | MySQL & MS SQL Server|
+| Number| Challenges | Solutions |
 | :---:| --- | :---: |
 | 1 | SQL Project Planning | Link | 
 | 2 | Placements| Link | 
@@ -86,7 +86,7 @@ Solutions for all easy, medium and hard SQL challenges on HackerRank executed on
 
 ### Alternative Queries
 
-| Number| Challenges | MySQL & MS SQL Server|
+| Number| Challenges |Solutions|
 | :---:| --- | :---: | 
 | 1 | Draw The Triangle 1 | Link | 
 | 2 | Draw The Triangle 2 | Link | 
