@@ -12,4 +12,4 @@ WHERE LOWER(CITY) NOT RLIKE '^[aeiou].*[aeiou]$';
 --MS SQL Server
 SELECT DISTINCT CITY
 FROM STATION
-WHERE LOWER(CITY) NOT LIKE '[aeiou]%[aeiou]'
+WHERE LOWER(CITY) NOT LIKE '[aeiou]%[aeiou]';
