@@ -21,13 +21,13 @@ Solutions for all easy, medium and hard SQL challenges on HackerRank executed on
 | 11 | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Weather-Observation-Station-6.sql) | 
 | 12 | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Weather-Observation-Station-7.sql) | 
 | 13 | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Weather-Observation-Station-8.sql) | 
-| 14 | Weather Observation Station 9 | Link | 
-| 15 | Weather Observation Station 10 | Link | 
-| 16 | Weather Observation Station 11 | Link | 
-| 17 | Weather Observation Station 12 | Link | 
-| 18 | Higher Than 75 Marks | Link | 
-| 19 | Employee Names | Link | 
-| 20 | Employee Salaries | Link |
+| 14 | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Weather-Observation-Station-9.sql) | 
+| 15 | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Weather-Observation-Station-10.sql) | 
+| 16 | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Weather-Observation-Station-11.sql) | 
+| 17 | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Weather-Observation-Station-12.sql) | 
+| 18 | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Higher-Than-75-Marks.sql) | 
+| 19 | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Employee-Names.sql) | 
+| 20 | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Select/Employee-Salaries.sql) |
 
 
 ### Advanced Select
