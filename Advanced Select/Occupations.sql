@@ -19,7 +19,7 @@ SELECT
 FROM (
   SELECT 
     Name, Occupation,
-    ROW_NUMBER() OVER (PARTITION BY Occupation ORDER BY Name) [RowNumber]
+    ROW_NUMBER() OVER (PARTITION BY Occupation ORDER BY Name) AS rn
   FROM Occupations ) AS tmp
 PIVOT (
   MAX(Name) FOR Occupation IN ([Doctor], [Professor], [Singer], [Actor])) AS pvt;
