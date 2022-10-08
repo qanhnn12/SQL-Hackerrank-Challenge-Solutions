@@ -44,23 +44,23 @@ Solutions for all easy, medium and hard SQL challenges on HackerRank executed on
 
 | Number| Challenges | Solutions|
 | :---:| --- | :---: | 
-| 1 | Revising Aggregations - The Count Function | Link | 
-| 2 | Revising Aggregations - The Sum Function | Link | 
-| 3 | Revising Aggregations - Averages | Link |
-| 4 | Average Population | Link |
-| 5 | Japan Population | Link | 
-| 6 | Population Density Difference | Link |
-| 7 | The Blunder | Link |
-| 8 | Top Earners | Link | 
-| 9 | Weather Observation Station 2 | Link | 
-| 10 | Weather Observation Station 13 | Link | 
-| 11 | Weather Observation Station 14 | Link | 
-| 12 | Weather Observation Station 15 | Link |
-| 13 | Weather Observation Station 16 | Link | 
-| 14 | Weather Observation Station 17 | Link | 
-| 15 | Weather Observation Station 18 | Link | 
-| 16 | Weather Observation Station 19 | Link | 
-| 17 | Weather Observation Station 20 | Link | 
+| 1 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Aggregation/Revising-Aggregations-The-Count-Function.sql) | 
+| 2 | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Aggregation/Revising-Aggregations-The-Sum-Function.sql) | 
+| 3 | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Aggregation/Revising-Aggregations-Averages.sql) |
+| 4 | [Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Aggregation/Average-Population.sql) |
+| 5 | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Aggregation/Japan-Population.sql) | 
+| 6 | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Aggregation/Population-Density-Difference.sql) |
+| 7 | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Aggregation/The-Blunder.sql) |
+| 8 | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Aggregation/Top-Earners.sql) | 
+| 9 | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Aggregation/Weather-Observation-Station-2.sql) | 
+| 10 | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Aggregation/Weather-Observation-Station-13.sql) | 
+| 11 | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Aggregation/Weather-Observation-Station-14.sql) | 
+| 12 | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Aggregation/Weather-Observation-Station-15.sql) |
+| 13 | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Aggregation/Weather-Observation-Station-16.sql) | 
+| 14 | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Aggregation/Weather-Observation-Station-17.sql) | 
+| 15 | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Aggregation/Weather-Observation-Station-18.sql) | 
+| 16 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Aggregation/Weather-Observation-Station-19.sql) | 
+| 17 | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Aggregation/Weather-Observation-Station-20.sql) | 
 
 ### Basic Join
 
