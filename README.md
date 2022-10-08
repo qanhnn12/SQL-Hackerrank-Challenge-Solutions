@@ -34,11 +34,11 @@ Solutions for all easy, medium and hard SQL challenges on HackerRank executed on
 
 | Number| Challenges | Solutions|
 | :---:| --- | :---: | 
-| 1 | Type of Triangle | Link | 
-| 2 | The PADS | Link |
-| 3 | Occupations | Link | 
-| 4 | Binary Tree Nodes | Link | 
-| 5 | New Companies | Link | 
+| 1 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Advanced%20Select/Type-of-Triangle.sql) | 
+| 2 | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Advanced%20Select/The-PADS.sql) |
+| 3 | [Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Advanced%20Select/Occupations.sql) | 
+| 4 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Advanced%20Select/Binary-Tree-Nodes.sql) | 
+| 5 | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Advanced%20Select/New-Companies.sql) | 
 
 ### Aggregation
 
