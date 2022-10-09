@@ -66,11 +66,11 @@ Solutions for all easy, medium and hard SQL challenges on HackerRank executed on
 
 | Number| Challenges | Solutions |
 | :---:| --- | :---: | 
-| 1 | Asian Population | Link | 
-| 2 | African Cities | Link |
-| 3 | Average Population of Each Continent | Link |
-| 4 | The Report| Link | 
-| 5 | Top Competitors| Link |
+| 1 | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem)| [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Join/Population-Census.sql) | 
+| 2 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Join/African-Cities.sql) |
+| 3 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Join/Average-Population-of-Each-Continent.sql) |
+| 4 | [The Report](https://www.hackerrank.com/challenges/the-report/problem)| [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Join/The-Report.sql) | 
+| 5 | [Top Competitors](https://www.hackerrank.com/challenges/full-score)| [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Join/Top-Competitors.sql) |
 | 6 | Ollivander's Inventory | Link |
 | 7 | Challenges | Link | 
 
