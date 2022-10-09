@@ -15,7 +15,7 @@ OR t.num = (@cnt+1)/2;
 
 
 --MS SQL Server
-# Method 1:
+--- Method 1:
 DECLARE @cnt INT
 SET @cnt = (SELECT COUNT(*) FROM STATION);
 
@@ -30,7 +30,7 @@ WHERE @cnt%2 = 0
 AND t.num IN (@cnt/2, @cnt/2+1)
 OR t.num = (@cnt+1)/2;
 
-# Method 2:
+--- Method 2:
 SELECT 
 TOP 1 CAST(
   PERCENTILE_CONT(0.5) 
