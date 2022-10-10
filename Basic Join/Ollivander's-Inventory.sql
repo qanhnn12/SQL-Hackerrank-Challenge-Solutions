@@ -15,11 +15,23 @@ ORDER BY w.power DESC, wp.age DESC;
 SELECT t.id, t.age, t.coins_needed, t.power
 FROM (
     SELECT w.id, wp.age, w.coins_needed, w.power,
-           ROW_NUMBER() OVER(PARTITION BY w.code, w.power 
-                        ORDER BY w.power DESC, w.coins_needed) AS rn
+           DENSE_RANK() OVER(PARTITION BY w.code, w.power 
+                        ORDER BY w.power DESC, w.coins_needed) AS rnk
     FROM Wands w
     JOIN Wands_Property wp ON w.code = wp.code
     WHERE is_evil = 0
     ) t
-WHERE t.rn = 1
+WHERE t.rnk = 1
+ORDER BY t.power DESC, t.age DESC;
+
+# Method 3: MS SQL Server
+SELECT t.id, t.age, t.coins_needed, t.power   
+FROM (
+    SELECT w.id, wp.age, w.coins_needed, w.power,
+           MIN(coins_needed) OVER(PARTITION BY w.code, w.power) AS min_coins 
+    FROM wands w 
+    JOIN wands_property wp ON w.code = wp.code
+    WHERE wp.is_evil = 0
+    )  t
+WHERE t.coins_needed = t.min_coins
 ORDER BY t.power DESC, t.age DESC;
