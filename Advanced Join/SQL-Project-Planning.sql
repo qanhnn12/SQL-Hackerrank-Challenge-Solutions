@@ -24,7 +24,7 @@ FROM (
         ) t1
         ) t2
 GROUP BY grp
-ORDER BY DATEDIFF(MAX(end_date), MIN(start_date)), MIN(start_date)
+ORDER BY DATEDIFF(MAX(end_date), MIN(start_date)), MIN(start_date);
 
 
 --MS SQL Server
