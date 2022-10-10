@@ -13,4 +13,4 @@ FROM (
     ) t
 GROUP BY t.hacker_id, t.name
 HAVING COUNT(*) > 1
-ORDER BY COUNT(*) DESC, t.hacker_id
+ORDER BY COUNT(*) DESC, t.hacker_id;
