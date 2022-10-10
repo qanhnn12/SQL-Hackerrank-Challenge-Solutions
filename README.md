@@ -71,8 +71,10 @@ Solutions for all easy, medium and hard SQL challenges on HackerRank executed on
 | 3 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Join/Average-Population-of-Each-Continent.sql) |
 | 4 | [The Report](https://www.hackerrank.com/challenges/the-report/problem)| [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Join/The-Report.sql) | 
 | 5 | [Top Competitors](https://www.hackerrank.com/challenges/full-score)| [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Join/Top-Competitors.sql) |
-| 6 | Ollivander's Inventory | Link |
-| 7 | Challenges | Link | 
+| 6 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Join/Ollivander's-Inventory.sql) |
+| 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Join/Challenges.sql) | 
+| 8 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Basic%20Join/Contest-Leaderboard.sql) | 
+
 
 ### Advanced Join
 
