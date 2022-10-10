@@ -80,7 +80,7 @@ Solutions for all easy, medium and hard SQL challenges on HackerRank executed on
 
 | Number| Challenges | Solutions |
 | :---:| --- | :---: |
-| 1 | SQL Project Planning | Link | 
+| 1 | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/tree/main/Advanced%20Join) | 
 | 2 | Placements| Link | 
 | 3 | Symmetric Pairs | Link | 
 | 4 | Interviews | Link |
