@@ -9,8 +9,8 @@ HAVING c_cnt = (                                      -- Students with same c_cn
 	  SELECT hacker_id, COUNT(*) as cnt
 	  FROM Challenges
 	  GROUP BY hacker_id
-	    ) t1
-      )
+	) t1
+      	)
 OR c_cnt IN (                                        -- Students with same c_cnt, if their c_cnt != the maximum of c_cnt, exclude them 
   SELECT t2.cnt
   FROM (
