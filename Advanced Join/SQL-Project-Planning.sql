@@ -42,4 +42,4 @@ FROM (
         ) t1
         ) t2
 GROUP BY grp
-ORDER BY DATEDIFF(DAY, MIN(start_date), MAX(end_date)), MIN(start_date);
+ORDER BY DATEDIFF(dd, MIN(start_date), MAX(end_date)), MIN(start_date);
