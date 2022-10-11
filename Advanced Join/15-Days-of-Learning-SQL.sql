@@ -63,4 +63,4 @@ JOIN ConsistencyCounts cc
     AND ss.ranking = 1
 JOIN Hackers h
     ON ss.hacker_id = h.hacker_id
-ORDER BY ss.submission_date ASC;
+ORDER BY ss.submission_date ;
