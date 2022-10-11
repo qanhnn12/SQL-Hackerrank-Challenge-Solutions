@@ -29,7 +29,7 @@ WHERE NOT EXISTS (
    SELECT * 
    FROM cte b
    WHERE MOD(a.num, b.num)=0                    # b.num = divisor
-   AND a.num != b.num )
+   AND a.num != b.num );
     
     
 --MS SQL Server
