@@ -47,7 +47,7 @@ SubmissionsSummary AS (
 	SELECT s.submission_date,
                s.hacker_id,
                ROW_NUMBER() OVER (PARTITION BY s.submission_date 
-				  ORDER BY COUNT(*) DESC, s.hacker_id ASC
+				  ORDER BY COUNT(*) DESC, s.hacker_id
              ) AS ranking
     	FROM Submissions s
     	GROUP BY s.submission_date, s.hacker_id)
