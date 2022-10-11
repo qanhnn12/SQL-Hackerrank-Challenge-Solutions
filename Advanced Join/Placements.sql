@@ -1,5 +1,5 @@
 --MySQL & MS SQL Server
-SELECT s.NAme
+SELECT s.Name
 FROM Students s
 JOIN Friends f ON s.ID = f.Friend_ID
 JOIN Packages p1 ON s.ID = p1.ID
