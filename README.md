@@ -80,7 +80,7 @@ Solutions for all easy, medium and hard SQL challenges on HackerRank executed on
 
 | Number| Challenges | Solutions |
 | :---:| --- | :---: |
-| 1 | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/tree/main/Advanced%20Join) | 
+| 1 | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Advanced%20Join/SQL-Project-Planning.sql) | 
 | 2 | [Placements](https://www.hackerrank.com/challenges/placements/problem)| [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Advanced%20Join/Placements.sql) | 
 | 3 | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Advanced%20Join/Symmetric-Pairs.sql) | 
 | 4 | [Interviews](https://www.hackerrank.com/challenges/interviews/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Advanced%20Join/Interviews.sql) |
