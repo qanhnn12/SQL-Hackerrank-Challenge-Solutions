@@ -34,8 +34,8 @@ WITH ConsistentHackers AS (
                s.hacker_id
       	FROM Submissions s
       	JOIN ConsistentHackers ch
-      	ON s.hacker_id = ch.hacker_id
-      	AND s.submission_date = ADDDATE(ch.submission_date,1))
+      	    ON s.hacker_id = ch.hacker_id
+      	    AND s.submission_date = ADDDATE(ch.submission_date,1))
 ,
 ConsistencyCounts AS (
 	SELECT ch.submission_date,
