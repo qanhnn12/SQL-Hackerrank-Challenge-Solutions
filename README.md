@@ -81,14 +81,15 @@ Solutions for all easy, medium and hard SQL challenges on HackerRank executed on
 | Number| Challenges | Solutions |
 | :---:| --- | :---: |
 | 1 | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/tree/main/Advanced%20Join) | 
-| 2 | Placements| Link | 
-| 3 | Symmetric Pairs | Link | 
-| 4 | Interviews | Link |
-| 5 | 15 Days of Learning SQL| Link |
+| 2 | [Placements](https://www.hackerrank.com/challenges/placements/problem)| [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Advanced%20Join/Placements.sql) | 
+| 3 | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Advanced%20Join/Symmetric-Pairs.sql) | 
+| 4 | [Interviews](https://www.hackerrank.com/challenges/interviews/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Advanced%20Join/Interviews.sql) |
+| 5 | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Advanced%20Join/15-Days-of-Learning-SQL.sql) |
 
 ### Alternative Queries
 
 | Number| Challenges |Solutions|
 | :---:| --- | :---: | 
-| 1 | Draw The Triangle 1 | Link | 
-| 2 | Draw The Triangle 2 | Link | 
+| 1 | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Alternative%20Queries/Draw-The-Triangle-1.sql) | 
+| 2 | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Alternative%20Queries/Draw-The-Triangle-2.sql) | 
+| 3 | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem)  | [Link](https://github.com/qanhnn12/SQL-Hackerrank-Challenge-Solutions/blob/main/Alternative%20Queries/Print-Prime-Numbers.sql) | 
