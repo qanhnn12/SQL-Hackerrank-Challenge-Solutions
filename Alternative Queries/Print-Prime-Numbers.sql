@@ -40,11 +40,11 @@ WITH cte(num) AS (
   WHERE num+1 < 1000
   )
   
-SELECT STRING_AGG(a.num, '&')       # a.num = prime
+SELECT STRING_AGG(a.num, '&')                   # a.num = prime
 FROM cte a
 WHERE NOT EXISTS (
    SELECT * 
    FROM cte b
-   WHERE a.num % b.num = 0          # b.num = divisor
+   WHERE a.num % b.num = 0                      # b.num = divisor
    AND a.num != b.num )
 OPTION (MAXRECURSION 1000); 
