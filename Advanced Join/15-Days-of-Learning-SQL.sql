@@ -1,5 +1,4 @@
---MySQL & MS SQL Server
-
+--MySQL
 SELECT submission_date,
 
       (SELECT COUNT(DISTINCT hacker_id)
