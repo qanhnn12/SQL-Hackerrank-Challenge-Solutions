@@ -23,6 +23,7 @@ SELECT submission_date,
         
 FROM (SELECT DISTINCT submission_date FROM Submissions) AS s1;
 
+
 --MS SQL Server
 WITH ConsistentHackers AS (
 	SELECT s.submission_date,
@@ -30,12 +31,12 @@ WITH ConsistentHackers AS (
 	FROM Submissions s
       	WHERE s.submission_date = '2016-03-01'
       	UNION ALL
-      	SELECT ADDDATE(ch.submission_date,1),
+      	SELECT DATEADD(dd,1,ch.submission_date),
                s.hacker_id
       	FROM Submissions s
       	JOIN ConsistentHackers ch
       	    ON s.hacker_id = ch.hacker_id
-      	    AND s.submission_date = ADDDATE(ch.submission_date,1))
+      	    AND s.submission_date = DATEADD(dd,1,ch.submission_date))
 ,
 ConsistencyCounts AS (
 	SELECT ch.submission_date,
