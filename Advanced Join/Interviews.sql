@@ -28,7 +28,6 @@ OR SUM(total_unique_views) != 0
 ORDER BY ct.contest_id;
 
 
-
 --MS SQL Server
 WITH VStats AS (
 SELECT challenge_id, 
