@@ -47,5 +47,4 @@ WHERE NOT EXISTS (
    FROM cte b
    WHERE a.num % b.num = 0          # b.num = divisor
    AND a.num != b.num )
-OPTION (MAXRECURSION 1000);
-    
+OPTION (MAXRECURSION 1000); 
