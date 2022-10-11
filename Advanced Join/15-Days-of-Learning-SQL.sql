@@ -50,7 +50,7 @@ SubmissionsSummary AS (
 				  ORDER BY COUNT(*) DESC, s.hacker_id ASC
              ) AS ranking
     	FROM Submissions s
-    	GROUP BY s.submission_date, s.hacker_id )
+    	GROUP BY s.submission_date, s.hacker_id)
 
 SELECT
     ss.submission_date,
@@ -63,4 +63,4 @@ JOIN ConsistencyCounts cc
     AND ss.ranking = 1
 JOIN Hackers h
     ON ss.hacker_id = h.hacker_id
-ORDER BY ss.submission_date ;
+ORDER BY ss.submission_date;
